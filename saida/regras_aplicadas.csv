@@ -1,0 +1,10 @@
+documento,regra,aplicacoes
+BR001,grau lido como º (ordinal),2
+BR001,número 1 lido como barra |,4
+BR001,sinal ± ,1
+BR002,unidade m³ lida como m? / m3,1
+BR002,µm lido como um,1
+BR002,unidade g/t lida como gh,3
+BR002,número 1 lido como barra |,1
+BR003,número 1 lido como barra |,3
+BR004,número 1 lido como barra |,3

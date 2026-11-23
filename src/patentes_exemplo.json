@@ -1,0 +1,35 @@
+[
+ {"id": "BR001", "numero": "BR 10 2025 001234-5 A2", "deposito": "14/03/2025", "qualidade_scan": 0.6,
+  "titulo": "DISPOSITIVO PARA ACONDICIONAMENTO E IDENTIFICAÇÃO DE TESTEMUNHOS DE SONDAGEM",
+  "resumo": "A presente invenção refere-se a uma caixa modular para testemunhos de sondagem rotativa, com divisórias removíveis e etiquetas de identificação resistentes à umidade. Cada compartimento comporta testemunhos de diâmetro HQ (63,5 mm) ou NQ (47,6 mm) e registra a profundidade inicial e final do intervalo. O dispositivo reduz a perda de amostras durante o transporte em até 35% e permite a rastreabilidade do furo desde a sonda até o laboratório.",
+  "reivindicacoes": [
+   "Dispositivo para acondicionamento de testemunhos, caracterizado por compreender uma caixa modular com cinco canaletas paralelas de 1,0 m de comprimento cada.",
+   "Dispositivo, de acordo com a reivindicação 1, caracterizado pelas divisórias serem fabricadas em polipropileno com espessura de 3 mm e resistência térmica de -10 °C a 60 °C.",
+   "Dispositivo, de acordo com a reivindicação 1 ou 2, caracterizado pela etiqueta conter código do furo, azimute, mergulho e intervalo amostrado, com tolerância de ± 0,05 m."],
+  "figuras": [{"numero": 1, "legenda": "Vista superior da caixa modular com intervalos de profundidade."}]},
+ {"id": "BR002", "numero": "BR 10 2025 007781-0 A2", "deposito": "02/06/2025", "qualidade_scan": 1.0,
+  "titulo": "PROCESSO DE CONCENTRAÇÃO DE MINÉRIO DE FERRO POR FLOTAÇÃO REVERSA",
+  "resumo": "Descreve-se um processo de flotação catiônica reversa para concentrados de itabirito com teor inicial entre 38% e 45% de Fe. O processo utiliza amido de milho como depressor e eteramina como coletor, em pH 10,5, obtendo concentrado com 67,8% de Fe e menos de 1,2% de SiO2. O consumo de água nova é reduzido para 0,35 m³ por tonelada processada.",
+  "reivindicacoes": [
+   "Processo de concentração de minério de ferro, caracterizado por compreender as etapas de moagem até P80 de 150 µm, deslamagem em hidrociclones e flotação em células mecânicas.",
+   "Processo, de acordo com a reivindicação 1, caracterizado pela dosagem de amido ser de 450 g/t a 600 g/t e a de eteramina de 40 g/t a 70 g/t.",
+   "Processo, de acordo com a reivindicação 1, caracterizado pela recirculação de 85% da água do espessador para a etapa de moagem."],
+  "figuras": [{"numero": 1, "legenda": "Fluxograma simplificado do circuito de flotação."},
+              {"numero": 2, "legenda": "Curva de recuperação metalúrgica em função do pH."}]},
+ {"id": "BR003", "numero": "BR 10 2025 012450-3 A2", "deposito": "21/08/2025", "qualidade_scan": 1.4,
+  "titulo": "SISTEMA DE MONITORAMENTO DE PIEZÔMETROS EM BARRAGENS DE REJEITO",
+  "resumo": "A invenção apresenta um sistema de aquisição automática de leituras de piezômetros de corda vibrante instalados em barragens de rejeito. As leituras são transmitidas a cada 15 minutos para uma central, que calcula a poropressão em kPa e emite alerta quando o nível ultrapassa o limite de controle definido no Plano de Ação de Emergência. O sistema opera com autonomia de 72 horas sem energia externa.",
+  "reivindicacoes": [
+   "Sistema de monitoramento, caracterizado por compreender sensores de corda vibrante, registradores com bateria de lítio e módulo de transmissão por rádio de 900 MHz.",
+   "Sistema, de acordo com a reivindicação 1, caracterizado pelo alerta de nível ser emitido em três estágios: atenção, alerta e emergência.",
+   "Sistema, de acordo com a reivindicação 2, caracterizado pelo registro das leituras com precisão de 0,1 kPa e carimbo de data e hora."],
+  "figuras": [{"numero": 1, "legenda": "Seção típica da barragem com a posição dos piezômetros."}]},
+ {"id": "BR004", "numero": "BR 10 2025 019902-7 A2", "deposito": "30/10/2025", "qualidade_scan": 1.6,
+  "titulo": "MÉTODO DE CLASSIFICAÇÃO DE LITOLOGIAS A PARTIR DE PERFIS GEOFÍSICOS DE POÇO",
+  "resumo": "O método classifica litologias em poços de petróleo a partir dos perfis de raios gama (GR), resistividade (ILD), densidade (RHOB) e porosidade neutrão (NPHI). Um modelo de floresta aleatória treinado com 12.400 amostras rotuladas atinge acurácia de 91,3% na separação entre arenito, folhelho, calcário e marga. A saída indica a probabilidade de cada classe a cada 0,15 m de profundidade.",
+  "reivindicacoes": [
+   "Método de classificação de litologias, caracterizado por compreender a normalização dos perfis, a remoção de intervalos com arrombamento de poço e o treinamento de um classificador supervisionado.",
+   "Método, de acordo com a reivindicação 1, caracterizado pelo classificador ser uma floresta aleatória com 300 árvores e profundidade máxima de 12 níveis.",
+   "Método, de acordo com a reivindicação 1 ou 2, caracterizado por descartar leituras de densidade inferiores a 1,95 g/cm³ ou superiores a 2,95 g/cm³."],
+  "figuras": [{"numero": 1, "legenda": "Perfis de poço e litologia prevista pelo modelo."}]}
+]

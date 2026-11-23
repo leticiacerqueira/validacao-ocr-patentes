@@ -1,0 +1,13 @@
+{
+  "titulo": "SISTEMA DE MONITORAMENTO DE PIEZÔMETROS EM BARRAGENS DE REJEITO",
+  "resumo": "A invenção apresenta um sistema de aquisição automática de leituras de piezômetros de corda vibrante instalados em barragens de rejeito. As leituras são transmitidas a cada 15 minutos para uma central, que calcula a poropressão em kPa e emite alerta quando o nível ultrapassa o limite de controle definido no Plano de Ação de Emergência. O sistema opera com autonomia de 72 horas sem energia externa.",
+  "reivindicacoes": [
+    "Sistema de monitoramento, caracterizado por compreender sensores de corda vibrante, registradores com bateria de lítio e módulo de transmissão por rádio de 900 MHz.",
+    "Sistema, de acordo com a reivindicação 1, caracterizado pelo alerta de nível ser emitido em três estágios: atenção, alerta e emergência.",
+    "Sistema, de acordo com a reivindicação 2, caracterizado pelo registro das leituras com precisão de 0,1 kPa e carimbo de data e hora."
+  ],
+  "legendas": [
+    "FIGURA 1 - Seção típica da barragem com a posição dos piezômetros."
+  ],
+  "n_figuras": 1
+}

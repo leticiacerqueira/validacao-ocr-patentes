@@ -1,0 +1,33 @@
+61 BR O MIGA prada 43 1220 Deposito: 21DRONDS
+
+(54) SISTEMA DE MONITORAMENTO DE PIEZÔMETROS EM BARRAGENS
+DE REJEITO
+
+457) RESUMO
+
+A invenção apresenta um sistema de aquisição automático de leituras de Prezômetros de conda vibrante
+instalados em barragens de rejeito. As leituras são tranemitidas a cada 15 minutos para una central. que
+coleula à porvpressão em kPa e emite alena quando o nível ultrapassa o limite de comtrole definido fo
+Plano de Ação de Emergência. O sistema opera com autonomia de 72 horas sem encrgia externa.
+
+REIVINDICAÇÕES
+
+| Sistema de monitoramento, caracterizado por compreender sensores de corda “ibrante, registradores com
+hateria de Htio é módulo de transmissão por rádio dé 900 MHZ.
+
+2 Sistema, de acordo com 3 resvindicação |, caracterizado
+
+pelo aberta de nível ser emitido em três estágios:
+atenção, alerta e emergência.
+
+3. Sistema, de acordo com 3 reivindicação
+
+2, caracterizado pelo registro das lenuras com precisão de 0,1
+— kPa e carimbo de data e hora.
+
+PR sta t
+empire pa
+
+E A
+
+FIGURA | - Seção típica da barragem com a persção dos piezienetros.

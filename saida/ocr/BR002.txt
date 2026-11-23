@@ -1,0 +1,36 @@
+CH BR 10 2025 0077810 A? 472) Depósito: DY06/02028
+
+(54) PROCESSO DE CONCENTRAÇÃO DE MINÉRIO DE FERRO POR
+FLOTAÇÃO REVERSA
+
+(57) RESUMO
+
+Descreve-se um processo de flotação catiônica reversa para concentrados de itabírito com teor inicial entre
+38% e 45% de Fe. O processo utiliza amido de milho como depressor e eteramina como coletor, em pH
+10,5, obtendo concentrado com 67,8% de Fe e menos de 1,2% de SiO2. O consumo de água nova é
+reduzido para 0,35 m? por tonelada processada.
+
+REIVINDICAÇÕES
+
+1. Processo de concentração de minério de ferro, caracterizado por compreender as etapas de moagem até
+PBO de 150 um, deslamagem em hidrociclones e flotação em células mecânicas.
+
+2. Processo, de acordo com a reivindicação |. caracterizado pela dosagem de amido ser de 450 gh a 600 gh
+e a de cteramina de 40 gh a 70 gh.
+
+3. Processo, de acordo com a reivindicação 1, caracterizado pela recirculação de 85% da água do
+espessador para a etapa de moagem.
+
+e — meme 14
+
+med me 12
+
+E 13
+
+FIGURA 1 - Fluxograma simplificado do circuito de fotação.
+
+12
+
+met
+
+FIGURA 2 - Curva de recuperação metalúrgica em função do pH.

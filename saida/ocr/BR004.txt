@@ -1,0 +1,26 @@
+«tita do mus gramas TAS Cornos ras
+
+(84) MÉTODO DE CLASSIFICAÇÃO DE LITOLOGIAS A PARTIR DE PERFIS |
+GEOFÍSICOS DE POÇO |
+
+(57) RESUMO
+
+E nd ct Hd pg o di jo poe io is OE resistividade
+AD, demadade (RHOB! e porosidade neutrão (NPHD. Um modelo de floresta aleatória treinado com
+
+2400 amostras rorsiadas atinge acurácia de 91,4% na sepuração potre arenito, folhelho. ico ia ep
+
+— A mabda indica a protsabilidade de cada classe a cada 0.18 m de profundidade.
+
+REIVINDICAÇÕES
+
+É. Método de classificação de litelogias, caracterizado por compreender s normalização dos perfis, a
+— temoção de intervalos com armembamento de poço ea treinamento de um ctassificador supervismado.
+
+2. Método, de monto com a reivindicação E, caracterizado pelo classificador ser uma fomesta aleatória com
+MOO árvores e profundidade máxima de 17 níveis.
+
+à. Método, de acordo cum à teivindicação | ou e pu ra
+a ci
+
+FIGURA dc Perfis de poço e Dintogia pervista pelo mendes,

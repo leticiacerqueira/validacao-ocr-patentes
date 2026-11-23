@@ -1,0 +1,33 @@
+(11) BR 10 2025 001234-5 AZ (22) Depósito: 14/03/2025
+
+(54) DISPOSITIVO PARA ACONDICIONAMENTO E IDENTIFICAÇÃO DE
+TESTEMUNHOS DE SONDAGEM
+
+(57) RESUMO
+
+A presente invenção refere-se a uma caixa modular para testemunhos de sondagem rotativa, com divisórias
+removíveis e etiquetas de identificação resistentes à umidade. Cada compartimento comporta testemunhos
+de diâmetro HQ (63,5 mm) ou NQ (47,6 mm) e registra à profundidade inicial e final do intervalo. O
+dispositivo reduz a perda de amostras durante o transporte em até 35% e permite a rastreabilidade do furo
+desde a sonda até o laboratório.
+
+REIVINDICAÇÕES
+
+|. Dispositivo para acondicionamento de testemunhos, caracterizado por compreender uma caixa modular
+com cinco canaletas paralelas de 1,0 m de comprimento cada.
+
+2. Dispositivo, de acordo com a reivindicação |, caracterizado pelas divisórias serem fabricadas em
+polipropileno com espessura de 3 mm e resistência térmica de -10ºC a 60 ºC,
+
+3. Dispositivo, de acordo com a reivindicação | ou 2, caracterizado pela etiqueta conter código do furo,
+azimute, mergulho e intervalo amostrado, com tolerância de + 0,05 m.
+
+“
+
+E pese |
+
+—+— 13
+
+Estes RSS RR
+
+FIGURA 1 - Vista superior da caixa modular com intervalos de profundidade.

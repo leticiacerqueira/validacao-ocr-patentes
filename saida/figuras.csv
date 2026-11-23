@@ -1,0 +1,5 @@
+documento,figuras_esperadas,legendas_encontradas,numeros_lidos,status
+BR001,1,1,1,ok
+BR002,2,2,1 2,ok
+BR003,1,1,1,ok
+BR004,1,0,,revisar: numeração ou legenda divergente

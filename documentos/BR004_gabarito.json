@@ -1,0 +1,13 @@
+{
+  "titulo": "MÉTODO DE CLASSIFICAÇÃO DE LITOLOGIAS A PARTIR DE PERFIS GEOFÍSICOS DE POÇO",
+  "resumo": "O método classifica litologias em poços de petróleo a partir dos perfis de raios gama (GR), resistividade (ILD), densidade (RHOB) e porosidade neutrão (NPHI). Um modelo de floresta aleatória treinado com 12.400 amostras rotuladas atinge acurácia de 91,3% na separação entre arenito, folhelho, calcário e marga. A saída indica a probabilidade de cada classe a cada 0,15 m de profundidade.",
+  "reivindicacoes": [
+    "Método de classificação de litologias, caracterizado por compreender a normalização dos perfis, a remoção de intervalos com arrombamento de poço e o treinamento de um classificador supervisionado.",
+    "Método, de acordo com a reivindicação 1, caracterizado pelo classificador ser uma floresta aleatória com 300 árvores e profundidade máxima de 12 níveis.",
+    "Método, de acordo com a reivindicação 1 ou 2, caracterizado por descartar leituras de densidade inferiores a 1,95 g/cm³ ou superiores a 2,95 g/cm³."
+  ],
+  "legendas": [
+    "FIGURA 1 - Perfis de poço e litologia prevista pelo modelo."
+  ],
+  "n_figuras": 1
+}

@@ -1,0 +1,68 @@
+documento,tipo,extraido,correto,confianca_ocr,acao
+BR001,acentuação,à,a,77,corrigir
+BR001,símbolo/unidade,"°C,",°C.,0,revisar
+BR001,inserção,“ E pese 1 Estes RSS RR,,0,revisar
+BR002,acentuação,itabírito,itabirito,60,corrigir
+BR002,número,PBO,P80,56,revisar
+BR002,número,1.,"1,",68,revisar
+BR002,símbolo/unidade,gh,g/t,56,revisar
+BR002,caractere trocado,cteramina,eteramina,52,revisar
+BR002,inserção,e — meme 14 med me 12 E 13,,15,revisar
+BR002,caractere trocado,fotação. met,flotação.,34,revisar
+BR003,caractere trocado,automático,automática,77,corrigir
+BR003,caractere trocado,Prezômetros,piezômetros,75,corrigir
+BR003,caractere trocado,conda,corda,88,corrigir
+BR003,caractere trocado,tranemitidas,transmitidas,82,corrigir
+BR003,caractere trocado,una central.,"uma central,",69,revisar
+BR003,caractere trocado,coleula à porvpressão,calcula a poropressão,18,revisar
+BR003,caractere trocado,alena,alerta,84,corrigir
+BR003,caractere trocado,comtrole,controle,86,corrigir
+BR003,caractere trocado,fo,no,80,corrigir
+BR003,caractere trocado,encrgia,energia,65,corrigir
+BR003,número,1,1.,0,revisar
+BR003,caractere trocado,"“ibrante,","vibrante,",12,revisar
+BR003,caractere trocado,hateria,bateria,86,corrigir
+BR003,caractere trocado,Htio é,lítio e,40,revisar
+BR003,acentuação,dé,de,85,corrigir
+BR003,número,MHZ. 2,MHz. 2.,67,revisar
+BR003,número,3 resvindicação,a reivindicação,5,revisar
+BR003,caractere trocado,aberta,alerta,77,corrigir
+BR003,número,3,a,55,revisar
+BR003,caractere trocado,lenuras,leituras,65,corrigir
+BR003,inserção,—,,42,revisar
+BR003,inserção,PR sta t empire pa E A,,0,revisar
+BR003,caractere trocado,persção,posição,24,revisar
+BR003,caractere trocado,piezienetros.,piezômetros.,1,revisar
+BR004,inserção,«tita do mus gramas TAS Cornos ras (84),,0,revisar
+BR004,inserção,1,,0,revisar
+BR004,inserção,1,,0,revisar
+BR004,caractere trocado,E nd ct Hd pg o di jo poe io is OE,"O método classifica litologias em poços de petróleo a partir dos perfis de raios gama (GR),",13,revisar
+BR004,caractere trocado,"AD, demadade (RHOB!","(ILD), densidade (RHOB)",0,revisar
+BR004,caractere trocado,(NPHD.,(NPHI).,70,corrigir
+BR004,número,2400,12.400,39,revisar
+BR004,caractere trocado,rorsiadas,rotuladas,5,revisar
+BR004,símbolo/unidade,"91,4%","91,3%",48,revisar
+BR004,caractere trocado,sepuração potre,separação entre,26,revisar
+BR004,caractere trocado,folhelho. ico ia ep —,"folhelho, calcário e marga.",23,revisar
+BR004,caractere trocado,mabda,saída,0,revisar
+BR004,caractere trocado,protsabilidade,probabilidade,46,revisar
+BR004,número,0.18,"0,15",9,revisar
+BR004,número,É.,1.,44,revisar
+BR004,caractere trocado,"litelogias,","litologias,",49,revisar
+BR004,caractere trocado,s,a,88,corrigir
+BR004,caractere trocado,— temoção,remoção,23,revisar
+BR004,caractere trocado,armembamento,arrombamento,30,revisar
+BR004,caractere trocado,ea,e o,47,revisar
+BR004,caractere trocado,ctassificador supervismado.,classificador supervisionado.,0,revisar
+BR004,caractere trocado,monto,acordo,52,revisar
+BR004,número,"E,","1,",52,revisar
+BR004,caractere trocado,fomesta,floresta,0,revisar
+BR004,número,MOO,300,48,revisar
+BR004,número,17,12,60,revisar
+BR004,número,à.,3.,63,revisar
+BR004,caractere trocado,cum à teivindicação,com a reivindicação,59,revisar
+BR004,número,e pu ra,"2, caracterizado por descartar leituras de densidade inferiores",29,revisar
+BR004,símbolo/unidade,ci,"1,95 g/cm³ ou superiores a 2,95 g/cm³.",38,revisar
+BR004,número,dc,1 -,21,revisar
+BR004,caractere trocado,Dintogia pervista,litologia prevista,0,revisar
+BR004,caractere trocado,"mendes,",modelo.,0,revisar
